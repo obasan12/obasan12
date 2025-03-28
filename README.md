@@ -20,7 +20,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
+
+### 🔧 Cybersecurity & Pentesting Tools
+- 🕵️‍♂️ **Wireshark** (Network Analysis)
+- 🔥 **Metasploit** (Penetration Testing)
+- 🌐 **Burp Suite** (Web Security Testing)
+- 📡 **Nmap** (Network Scanning)
+- 🐍 **Kali Linux** (Security-Focused OS)
+- 🔓 **John the Ripper** (Password Cracking)
+- 🔑 **Hydra** (Brute Force Tool)
 
 ### 📫 Connect With Me
 🔹 **Twitter/X**: [@cipherh4ck](https://twitter.com/cipherh4ck)  
@@ -28,4 +39,4 @@
 🔹 **GitHub**: [obasan12](https://github.com/obasan12)  
 
 ### 🏆 GitHub Contribution Snake
-![Snake animation](https://github.com/obasan12/obasan12/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
