@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Cipher! 👋
 
-<!--
-**obasan12/obasan12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
-Here are some ideas to get you started:
+### 🚀 About Me
+🔹 Cybersecurity Pentester & Backend Developer  
+🔹 Passionate about ethical hacking, penetration testing, and backend development  
+🔹 Currently exploring blockchain & advanced cybersecurity techniques  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Cipher's GitHub stats](https://github-readme-stats.vercel.app/api?username=obasan12&show_icons=true&theme=radical)
+
+### 🛠️ Some Tools I Have Used and Learned
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
+</p>
+
+### 📫 Connect With Me
+🔹 **Twitter/X**: [@cipherh4ck](https://twitter.com/cipherh4ck)  
+🔹 **LinkedIn**: [Obasanjo Emmanuel](https://www.linkedin.com/in/obasanjo-emmanuel)  
+🔹 **GitHub**: [obasan12](https://github.com/obasan12)  
+
+### 🏆 GitHub Contribution Snake
+![Snake animation](https://github.com/obasan12/obasan12/blob/output/github-contribution-grid-snake.svg)
